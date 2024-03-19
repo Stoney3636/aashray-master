@@ -9,8 +9,6 @@ import Sliderimages from "./components/Sliderimages";
 
 
 function App() {
-
-  
   return (
 
     <BrowserRouter>
