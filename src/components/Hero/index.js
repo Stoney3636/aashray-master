@@ -19,7 +19,7 @@ const Hero = () => {
             <Sidebar isOpen={isOpen} toggle={toggle} />
             <HeroContent>
               <HeroItems>
-                <HeroH1>Roofing the Innovations</HeroH1>
+                <HeroH1>Roofing the Innovation</HeroH1>
                 <Link activeClass="active"  to='Workshops' spy={true} smooth={true} duration={1000}><HeroBtn>View More!!</HeroBtn></Link>
               </HeroItems>
             </HeroContent>
