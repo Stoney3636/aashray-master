@@ -21,10 +21,14 @@ render() {
                                 
                                 </ul>
                             </ProductDesc>
-
-                            <ProductPrice>Accomodation Fee For all Events - 200/-</ProductPrice>
-                            <ProductButton onClick={()=>{window.open('https://docs.google.com/forms/d/e/1FAIpQLSfKMLN-bAJP4LIG00mPVuFSvF-2GQopcQiuClxbwjzwZTRfDw/viewform', '_blank') }}>Register!</ProductButton>
+                            
                     
+
+
+                            <ProductButton onClick={()=>{window.open('https://docs.google.com/forms/d/e/1FAIpQLSfKMLN-bAJP4LIG00mPVuFSvF-2GQopcQiuClxbwjzwZTRfDw/viewform', '_blank') }}>Register!</ProductButton>
+                            <ProductPrice>Accomodation Fee For all Events - 200/-</ProductPrice>
+
+                            
                         </ProductInfo>
                     </ProductCard>
                  

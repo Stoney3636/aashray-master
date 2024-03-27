@@ -156,8 +156,9 @@ export const ProductButton = styled.button`
     width: 200px;
     height: 60px;
     border-radius:75px;
-    margin-top: 30px;
+    margin-top: 35px;
     margin-right: 130px;
+    margin-bottom:35px;
    
     background: black;
     color: white;
@@ -166,6 +167,7 @@ export const ProductButton = styled.button`
     cursor: pointer;
     margin-left: 140px;np
     box-shadow: 0 0 10px 5px white
+    
 
     &:hover {
         background: grey;

@@ -64,7 +64,7 @@ render() {
                                     <li>Depending on the setup, treasure hunts can involve competition among teams or individuals, adding an element of excitement and motivation to the challenge. </li>
                                 </ul>
                             </ProductDesc>
-                            <ProductButton>Register!</ProductButton>
+                            <ProductButton onClick={()=>{window.open('https://forms.gle/jcMayL52sHNzBh4s6', '_blank') }}>Register!</ProductButton>
                         </ProductInfo>
                     </ProductCard>
                     <ProductCard>
