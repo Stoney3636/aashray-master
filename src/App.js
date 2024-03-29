@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import Workshop from "./components/Workshop";
 import Sliderimages from "./components/Sliderimages";
 
-
+import Sponsers from "./components/sponsers/index";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
       <Sliderimages />
       <Workshop />
       <Events />
+      <Sponsers/>
       <Footer />
     </BrowserRouter>
   );
